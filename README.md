@@ -5,8 +5,8 @@
 🔭 I'm currently working on my portfolio page at https://sofia-etchegoin.github.io/<br>
 👀 I’m interested in project coordination, collaborative problem-solving, and continual learning<br>
 🌱 I’m currently learning Typescript and Rust<br>
-📫 How to reach me sofiaetchegoin@gmail.com<br>
-<br>
+📫 How to reach me sofiaetchegoin@gmail.com
+
 
 ### <p align="center"> Connect with me</p>
 <p align="center"><a href="https://www.linkedin.com/in/sofia-etchegoin-094417220/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="40" height="40"></a></p>
