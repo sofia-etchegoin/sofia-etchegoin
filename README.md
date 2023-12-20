@@ -3,7 +3,7 @@
 ### <p align="center">Full-Stack Developer</p>
 
 🔭 I'm currently working on my Github portfolio <br>
-👀 I’m interested in project coordination, collaborative problem-solving, and continual learning<br>
+👀 I’m interested in writing clean code, project coordination, collaborative problem-solving, and continual learning<br>
 🌱 I’m currently revising the fullstack skills we learnt at Dev Academy<br>
 📫 How to reach me sofiaetchegoin@gmail.com <br>
 📄 [Download my CV](https://github.com/sofia-etchegoin/sofia-etchegoin-cv/blob/main/CV%20-%20Sofia%20Etchegoin.pdf)
