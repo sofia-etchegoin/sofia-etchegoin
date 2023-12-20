@@ -2,9 +2,9 @@
 
 ### <p align="center">Full-Stack Developer</p>
 
-🔭 I'm currently working on my portfolio page at https://sofia-etchegoin.github.io/<br>
+🔭 I'm currently working on my Github portfolio <br>
 👀 I’m interested in project coordination, collaborative problem-solving, and continual learning<br>
-🌱 I’m currently learning Typescript and Rust<br>
+🌱 I’m currently revising the fullstack skills we learnt at Dev Academy 
 📫 How to reach me sofiaetchegoin@gmail.com <br>
 📄 [Download my CV](https://github.com/sofia-etchegoin/sofia-etchegoin-cv/blob/main/CV%20-%20Sofia%20Etchegoin.pdf)
 
