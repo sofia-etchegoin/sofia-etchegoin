@@ -33,9 +33,7 @@
 <a href="https://expressjs.com/">
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" alt="React" width="70" height="40"></a>
 <a href="https://www.sqlite.org/index.html">
-  <img src="https://static-00.iconduck.com/assets.00/sqlite-icon-2048x909-7nkrc3bm.png" alt="React" width="100" height="40">
-</a>
-  <a href="https://rubyonrails.org/">
-  <img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/158/Ruby_on_Rails_2-256.png" alt="Ruby on Rails" width="100" height="40">
-</a>
+  <img src="https://static-00.iconduck.com/assets.00/sqlite-icon-2048x909-7nkrc3bm.png" alt="React" width="100" height="40"></a>
+<a href="https://rubyonrails.org/">
+  <img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/158/Ruby_on_Rails_2-256.png" alt="Ruby on Rails" width="50" height="40"></a>
 </p>
