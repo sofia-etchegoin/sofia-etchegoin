@@ -2,7 +2,7 @@
 
 ### <p align="center">Full-Stack Developer</p>
 
-🔭 Currently working on my Github portfolio and revising the full-stack I learnt at Dev Academy <br>
+🔭 Currently working on my Github portfolio, revising the full stack from Dev Academy and learning Ruby on Rails<br>
 👀 Passionate about writing clean code, project coordination, collaborative problem-solving, and continual learning<br>
 📫 How to reach me sofiaetchegoin@gmail.com <br>
 📄 [Download my CV](https://github.com/sofia-etchegoin/sofia-etchegoin-cv/blob/main/CV%20-%20Sofia%20Etchegoin.pdf)
