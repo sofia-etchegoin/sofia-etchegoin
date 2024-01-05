@@ -17,7 +17,7 @@
 <a href="https://react.dev/">
   <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40" height="40"></a>
   <a href="https://www.javascript.com/">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="React" width="40" height="40"></a>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40"></a>
   <a href="https://www.w3schools.com/html/">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="HTML" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/">
