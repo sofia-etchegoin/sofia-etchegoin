@@ -38,5 +38,7 @@
   <img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/158/Ruby_on_Rails_2-256.png" alt="Ruby on Rails" width="50" height="40"></a>
 <a href="https://getbootstrap.com/">
   <img src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/576/bootstrap-256.png" alt="Bootstrap" width="40" height="40"></a>
+<a href="https://tailwindcss.com">
+  <img src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-1024.png" alt="Tailwind CSS" width="40" height="40"></a>
   
 </p>
