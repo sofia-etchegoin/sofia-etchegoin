@@ -1,6 +1,6 @@
 # <p align="center"><strong> Kia ora! 👋 I’m Sofia Etchegoin</strong><br></p>
 
-### <p align="center">Full-Stack Developer</p>
+### <p align="center">Full Stack Developer</p>
 
 🔭 Currently working on my Github portfolio, revising the full stack from Dev Academy and learning Ruby on Rails<br>
 👀 Passionate about writing clean code, project coordination, collaborative problem-solving, and continual learning<br>
